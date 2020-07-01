@@ -22,9 +22,9 @@
 
 人民的名义：
 
-<img src="/README.assets/人民的名义图谱.png" alt="人民的名义图谱" style="zoom:67%;" />
+<img src="https://github.com/cxmirene/-/tree/master/README.assets/人民的名义图谱.png" alt="人民的名义图谱" style="zoom:67%;" />
 
 红楼梦：
 
-<img src="/README.assets/红楼梦图谱.png" alt="红楼梦图谱" style="zoom:67%;" />
+<img src="https://github.com/cxmirene/-/tree/master/README.assets/红楼梦图谱.png" alt="红楼梦图谱" style="zoom:67%;" />
 
